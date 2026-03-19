@@ -3,7 +3,7 @@
 <p align="center">
 
 
-  <img src="https://i.ibb.co/216xDfyj/ec03bf7f35e61e46e2027b565685a5dc.jpg" alt="Description of image" width="400"/>
+  <img src="https://i.ibb.co/N2XRTm2P/f53d98288a3f18073c4bdd86c8ca5bea.jpg" alt="Description of image" width="400"/>
 </p>
 <div align="center">
   
